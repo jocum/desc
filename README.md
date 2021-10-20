@@ -11,10 +11,10 @@
   ```
   >> #官方安装会报443错误 这里用国内镜像安装
 ### 2. Oh My Zsh
-  > Oh My Zsh 是一个令人愉快的开源社区驱动框架，用于管理您的 Zsh 配置。它捆绑了数以千计的有用功能、帮助程序、插件、主题和一些让您大喊大叫的东西.....
-  > Oh My Zsh 需要先安装zsh
-  > 官方网站 [https://ohmyz.sh/](https://ohmyz.sh/)
-  > github  [https://github.com/ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+  > -Oh My Zsh 是一个令人愉快的开源社区驱动框架，用于管理您的 Zsh 配置。它捆绑了数以千计的有用功能、帮助程序、插件、主题和一些让您大喊大叫的东西.....
+  > -Oh My Zsh 需要先安装zsh
+  > -官方网站 [https://ohmyz.sh/](https://ohmyz.sh/)
+  > -github  [https://github.com/ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
   * 安装
   ```
     sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
