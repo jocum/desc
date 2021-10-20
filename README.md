@@ -11,10 +11,10 @@
   ```
   >> #官方安装会报443错误 这里用国内镜像安装
 ### 2. Oh My Zsh
-  > -Oh My Zsh 是一个令人愉快的开源社区驱动框架，用于管理您的 Zsh 配置。它捆绑了数以千计的有用功能、帮助程序、插件、主题和一些让您大喊大叫的东西.....
-  > -Oh My Zsh 需要先安装zsh
-  > -官方网站 [https://ohmyz.sh/](https://ohmyz.sh/)
-  > -github  [https://github.com/ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+  > Oh My Zsh 是一个令人愉快的开源社区驱动框架，用于管理您的 Zsh 配置。它捆绑了数以千计的有用功能、帮助程序、插件、主题和一些让您大喊大叫的东西.....
+  > Oh My Zsh 需要先安装zsh
+  > 官方网站 [https://ohmyz.sh/](https://ohmyz.sh/)
+  > github  [https://github.com/ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
   * 安装
   ```
     sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -26,10 +26,10 @@
   ```
     git clone --depth=1 https://gitee.com/romkatv/powerlevel10k.git ~/powerlevel10k echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
   ```
-  >> 这里默认已经安装了 Oh My Zsh  
+  > 这里默认已经安装了 Oh My Zsh  
   * 安装字体库支持
-  >> 这里使用的是 Nerd fonts   
-  >> github [https://github.com/ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+  > 这里使用的是 Nerd fonts   
+  > github [https://github.com/ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
   ```
     #这里只介绍mac 的  brew 安装方式 其他安装请看github
     brew tap homebrew/cask-fonts
