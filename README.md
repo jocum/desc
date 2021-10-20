@@ -21,7 +21,7 @@
   ```
 ### 3. powerlevel10k
   > p10k 是oh my zsh 的一个主题可以让你的窗口看起来更合适自己的审美 可以通过命令自己配置
-  > github [https://github.com/romkatv/powerlevel10k][https://github.com/romkatv/powerlevel10k]
+  > github [https://github.com/romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
   * 安装
   ```
     git clone --depth=1 https://gitee.com/romkatv/powerlevel10k.git ~/powerlevel10k echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
