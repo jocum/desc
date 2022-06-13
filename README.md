@@ -39,3 +39,5 @@
    1. 安装完成后 去命令行窗口 属性配置中 选择 Hack nerd font 字体
       打开窗口-> 选择终端 -> 偏好设置 -> 描述文件 -> 文本 -> 字体  更改      
       运行 p10k  configure 配置你的样式
+### 4. mysql 下载
+  > https://dev.mysql.com/
